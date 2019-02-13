@@ -1,0 +1,1 @@
+alert("Hello");function helloWorld(l){console.log(l)}
